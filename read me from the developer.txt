@@ -1,0 +1,22 @@
+This codeigniter phonebook allows the user to:
+create contacts
+update contacts
+delete contacts
+search through contacts
+and view contacts
+
+FUTURE VERSIONS SHOULD:
+Have authentication so the phonebook can have multiple users
+Make use of sessions to manage user contacts
+Use more secure conventions such as bindings when dealing with the database
+Have an email functionality for issues such as forgot password.
+
+TECHNOLOGIES USED:
+CodeIgniter4
+PHP 7
+MySQL 5
+
+BY:
+Tawanda Mutasa
+Tawacodes@gmail.com
++267 777 14159
